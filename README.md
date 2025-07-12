@@ -1,6 +1,6 @@
 # 3AMs-App-Archive
 
-An archive with proof for 3AM Studios, which released apps on the Microsoft Store and left all its customers (including me) by removing all their apps and support mails.
+An archive with proof for 3AM Studios, which released apps on the Microsoft Store (all apps removed).
 
 ## ATube (aka. Awesome Tube)
 
@@ -47,7 +47,7 @@ An archive with proof for 3AM Studios, which released apps on the Microsoft Stor
 
 ## Note
 
-To all customers who bought these apps, here are the downloads for both ZTwitch and ATube in the latest release section. Please give this a star to get more attention. A maintainer is needed for the apps.
+To all customers who bought these apps, here are the downloads for both ZTwitch and ATube in the latest release section. Please give this a star to get more attention. 
 
-**Important:** Microsoft will **never** refund this, so you are in a fraud, losing money. I tried everything I could to get my money back, including sending screenshots, but it was impossible. I am very upset, which is why I made this page. I still hope to get my money back.
+**Important:** Microsoft will **never** refund this, so you are in a fraud, losing money. 
 
